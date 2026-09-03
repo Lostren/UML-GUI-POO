@@ -1,0 +1,112 @@
+﻿<Window x:Class="projeto_POO.telaJogavel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projeto_POO"
+        mc:Ignorable="d"
+        Title="telaJogavel" Height="900" Width="1600">
+    <Window.Background>
+        <ImageBrush ImageSource="/fundoJogoObjetos2.jpeg"/>
+    </Window.Background>
+    <Grid Loaded="Window_Loaded">
+        <Image x:Name="aranhaItem" Margin="1122,110,396,695" Source="/Images/aranha.png" Stretch="Fill" MouseLeftButtonDown="aranhaItem_MouseLeftButtonDown"/>
+        <Image x:Name="ancoraItem" Margin="115,491,1414,286" Source="/Images/ancora.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Opacity="0.5" MouseLeftButtonDown="ancoraItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.748" ScaleX="1.237"/>
+                    <SkewTransform AngleY="-8.55" AngleX="27.696"/>
+                    <RotateTransform Angle="26.106"/>
+                    <TranslateTransform Y="-77.503" X="24.295"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="anzolItem" Margin="132,687,1426,136" Source="/Images/anzol.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" MouseLeftButtonDown="anzolItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="202.392"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="canetaItem" Margin="337,323,1201,501" Source="/Images/canetaPena.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Opacity="0.748" MouseLeftButtonDown="canetaItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="50.931"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="chaveItem" Margin="643,496,918,315" Source="/Images/chave.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Opacity="0.95" MouseLeftButtonDown="chaveItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-98.906"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="engrenagemItem" Margin="710,184,829,643" Source="/Images/engrenagem.png" Stretch="Uniform" RenderTransformOrigin="0.5,0.5" Opacity="0.8" MouseLeftButtonDown="engrenagemItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.102"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="mosqueteItem" Margin="1281,330,84,483" Source="/Images/mosquete.png" Stretch="Fill" Opacity="0.95" RenderTransformOrigin="0.5,0.5" MouseLeftButtonDown="mosqueteItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="pistolaItem" Margin="1284,664,205,122" Source="/Images/pistola.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Opacity="0.35" MouseLeftButtonDown="pistolaItem_MouseLeftButtonDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="18.765"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="tuxItem" Margin="562,96,956,680" Source="/Images/tux.png" Stretch="Fill" Opacity="0.4" MouseLeftButtonDown="tuxItem_MouseLeftButtonDown"/>
+        <Rectangle x:Name="listaFundo" HorizontalAlignment="Center" Height="226" Margin="0,720,0,0" VerticalAlignment="Top" Width="860" Panel.ZIndex="1">
+            <Rectangle.Stroke>
+                <SolidColorBrush Color="Black" Opacity="0"/>
+            </Rectangle.Stroke>
+            <Rectangle.Fill>
+                <SolidColorBrush Color="Black" Opacity="0.5"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="ancoraLista" Content="Ancora
+               " HorizontalAlignment="Left" Margin="393,740,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="anzolLista" Content="Anzol" HorizontalAlignment="Left" Margin="562,740,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="aranhaLista" Content="Aranha" HorizontalAlignment="Center" Margin="0,740,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="canetaLista" Content="Caneta" HorizontalAlignment="Left" Margin="1076,740,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="chaveLista" Content="Chave" HorizontalAlignment="Left" Margin="911,740,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="engrenagemLista" Content="Engrenagem" HorizontalAlignment="Left" Margin="411,809,0,0" VerticalAlignment="Top" Height="65" Width="192" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="mosqueteLista" Content="Mosquete" HorizontalAlignment="Left" Margin="645,810,0,0" VerticalAlignment="Top" Height="65" Width="155" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="pistolaLista" Content="Pistola" HorizontalAlignment="Left" Margin="847,810,0,0" VerticalAlignment="Top" Height="65" Width="128" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Label x:Name="tuxLista" Content="Pinguim Tux" HorizontalAlignment="Left" Margin="1000,810,0,0" VerticalAlignment="Top" Height="65" Width="186" Foreground="White" FontSize="32" Panel.ZIndex="3" FontFamily="Papyrus"/>
+        <Button x:Name="dicaButton" Content="Dica" HorizontalAlignment="Left" Margin="1436,720,0,0" VerticalAlignment="Top" Height="164" Width="164" Foreground="White" FontFamily="Papyrus" FontSize="32" Click="dicaButton_Click">
+            <Button.Background>
+                <SolidColorBrush Color="Black" Opacity="0.5"/>
+            </Button.Background>
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Window>
