@@ -1,0 +1,20 @@
+﻿<Window x:Class="projeto_POO.vitoria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projeto_POO"
+        mc:Ignorable="d"
+        Title="vitoria" Height="200" Width="275">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF0E2F1D" Offset="1"/>
+                <GradientStop Color="DarkOliveGreen" Offset="0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="VITÓRIA" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Papyrus" FontSize="36" Background="{x:Null}" Margin="0,64,0,0" Foreground="Gold"/>
+        <Label Content="👑" HorizontalAlignment="Center" Margin="0,24,0,0" VerticalAlignment="Top" FontSize="32" Foreground="Gold"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,134 @@
+C:\DevC\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+C:\DevC\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+C:\DevC\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+C:\DevC\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+C:\DevC\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+C:\DevC\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+F:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+F:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+F:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+F:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+F:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+F:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+C:\Users\sistemaLab\Desktop\AULA POO\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+D:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+D:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+D:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+D:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+D:\POO II\Projeto POO\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+D:\POO II\Projeto POO\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+C:\Users\ivanc\Desktop\Faculdade\Período 4\POO II\Projeto B1\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\bin\Debug\net10.0-windows\projeto POO.exe
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\bin\Debug\net10.0-windows\projeto POO.deps.json
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\bin\Debug\net10.0-windows\projeto POO.runtimeconfig.json
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\bin\Debug\net10.0-windows\projeto POO.dll
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\bin\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\telaJogavel.g.cs
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.cache
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO_MarkupCompile.lref
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\telaJogavel.baml
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.g.resources
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfoInputs.cache
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.AssemblyInfo.cs
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.csproj.CoreCompileInputs.cache
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.dll
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\refint\projeto POO.dll
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.pdb
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\projeto POO.genruntimeconfig.cache
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\ref\projeto POO.dll
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\vitoria.g.cs
+C:\Users\alunolab11\Desktop\Projeto POO UVV\projeto POO\obj\Debug\net10.0-windows\vitoria.baml
